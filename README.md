@@ -10,3 +10,6 @@ CSS: For the design, layout, and responsiveness of the website.
 **Project Structure**
 index.html: The main HTML file that contains the homepage and structure.
 styles.css: The CSS file that contains all the styles for the website.
+
+**NOTE:**
+Make sure your window zoom size is around 80%
